@@ -1,4 +1,3 @@
-import { KZ_IMG_PATH, NFACTORIAL_IMG_PATH } from "../images"
 import Tweet from './Tweet';
 
 
